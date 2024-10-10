@@ -7,9 +7,10 @@
 1. **MainActivity** (первая Activity) содержит кнопку.
     - При нажатии на кнопку выполняется переход на второй экран (SecondActivity).
     - Во время перехода передаётся параметр — фамилия пользователя.
-![image](https://github.com/user-attachments/assets/df106a82-5bcb-44b2-8c77-3b7d07a8e04c)
-![image](https://github.com/user-attachments/assets/c61fd18e-b779-49d2-a281-99984a0594ff)
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/df106a82-5bcb-44b2-8c77-3b7d07a8e04c" width="250"> 
+    <img src="https://github.com/user-attachments/assets/c61fd18e-b779-49d2-a281-99984a0594ff" width="250">
+</p>
 
 2. **SecondActivity** (вторая Activity) содержит `TextView`.
     - На экране отображается текст с переданным параметром (фамилией), полученным из первой Activity.
