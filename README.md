@@ -7,7 +7,8 @@
 1. **MainActivity** (первая Activity) содержит кнопку.
     - При нажатии на кнопку выполняется переход на второй экран (SecondActivity).
     - Во время перехода передаётся параметр — фамилия пользователя.
-![Скриншот1] (/Users/alinapavlenko/Desktop/Скрины/1.png)
+![image](https://github.com/user-attachments/assets/df106a82-5bcb-44b2-8c77-3b7d07a8e04c)
+
 ![Скриншот1] (/Users/alinapavlenko/Desktop/Скрины/2.png)
 
 2. **SecondActivity** (вторая Activity) содержит `TextView`.
